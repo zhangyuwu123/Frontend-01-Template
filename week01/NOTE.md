@@ -1,6 +1,6 @@
 # 每周总结可以写在这里
 # 知识地图整理
-![922ae4fd7a45e54aebc0a4970bc2dcef.png](evernotecid://420D24DA-393D-4E35-BB5D-9E549107DB15/appyinxiangcom/9337247/ENResource/p953)
+![https://github.com/zhangyuwu123/Frontend-01-Template/blob/master/week01/jishu.png]
 
 # url匹配
 ```
