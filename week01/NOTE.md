@@ -1,7 +1,6 @@
 # 每周总结可以写在这里
 # 知识地图整理
-![https://github.com/zhangyuwu123/Frontend-01-Template/blob/master/week01/jishu.png]
-
+![](https://github.com/zhangyuwu123/Frontend-01-Template/blob/master/week01/jishu.png)
 # url匹配
 ```
 var str ='https://developer.mozilla.org/en-US/docs/Web/CSS/calc?a=1&b=2'
